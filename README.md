@@ -74,6 +74,14 @@ PDF관보의 정보들을 데이터 형태로 변환하기까지는 꽤 많은 �
 ## 2022 국회고위공직자 재산정보
 구글시트: https://docs.google.com/spreadsheets/d/124rioS6kCtJrbuiXNATQmbrFVsBX2TTkQpsSDjco3jA/edit?usp=sharing  
 
-이 데이터는 2022년 3월 31일 제 2022-31호에 공개된 '2022년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
+이 데이터는 2022년 3월 31일 국회공보 제2022-31호에 공개된 '2022년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
 
 원본 파일: [국회공보 제2022-31호(정기재산공개)](https://www.assembly.go.kr/portal/bbs/B0000059/view.do?nttId=1707818&menuNo=600103&pageUnit=10&sdate=&edate=&cl1Cd=&searchCnd=1&searchWrd=&pageIndex=4)
+
+## 2023 국회고위공직자 재산정보
+구글시트: https://docs.google.com/spreadsheets/d/12F6gfUNlJGQM1uaIlhD75ria9OZBR0DejF9_IW-JAH0/edit?usp=sharing  
+
+이 데이터는 2023년 3월 31일 국회공보 제2023-54호에 공개된 '2023년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
+
+원본 파일: [국회공보 제2023-54호(정기재산공개)](https://www.assembly.go.kr/portal/bbs/B0000059/view.do?nttId=2184625&menuNo=600103&sdate=&edate=&pageUnit=10&pageIndex=1)
+
