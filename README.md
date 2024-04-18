@@ -83,5 +83,12 @@
 
 이 데이터는 2023년 3월 31일 국회공보 제2023-54호에 공개된 '2023년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
 
-원본 파일: [국회공보 제2023-54호(정기재산공개)](https://www.assembly.go.kr/portal/bbs/B0000059/view.do?nttId=2184625&menuNo=600103&sdate=&edate=&pageUnit=10&pageIndex=1)
+원본 파일: [국회공보 제2023-54호(정기재산공개)](https://www.assembly.go.kr/portal/bbs/B0000059/view.do?nttId=2184625&menuNo=600103&sdate=&edate=&pageUnit=10&pageIndex=1)  
+
+## 2024 국회고위공직자 재산정보
+구글시트: https://docs.google.com/spreadsheets/d/1_1j0TewzCXenNzI2tj2f_tc06iWI6gMX-okS0Q_J3i0/edit?usp=sharing  
+
+이 데이터는 2024년 3월 28일 국회공보 제2024-36호에 공개된 '2024년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
+
+원본 파일: [국회공보 제2024-36호(정기재산공개)](https://www.assembly.go.kr/portal/cnts/cntsCont/dataA.do?cntsDivCd=NAMGZN&pdfClsCd=CPR&menuNo=601019&pageIndex=1&pdfId=379354&pdfSj=&beginNotiDt=&endNotiDt=)
 
