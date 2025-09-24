@@ -99,3 +99,10 @@
 
 원본 파일: [국회공보 제2024-107호(재산공개)](https://www.assembly.go.kr/portal/cnts/cntsCont/dataA.do?cntsDivCd=NAMGZN&pdfClsCd=CPR&menuNo=601019&pageIndex=2&pdfId=379431&pdfSj=&beginNotiDt=&endNotiDt=)
 
+## 2025 국회고위공직자 재산정보
+구글시트: https://docs.google.com/spreadsheets/d/182m4MFFj4Ho2cICo3PGy8RyxHZ3vwNklyo5yM4M5M4Q/edit?usp=sharing
+
+이 데이터는 2025년 3월 27일 국회공보 제2025-51호에 공개된 '2025년 정기재산변동신고 공개목록' PDF를 시민들이 분석하기 쉽게 정보공개센터에서 정제해 공개한 데이터입니다.  
+
+원본 파일: [국회공보 제2025-51호(정기재산공개)](https://www.assembly.go.kr/portal/cnts/cntsCont/dataA.do?cntsDivCd=NAMGZN&pdfClsCd=CPR&menuNo=601019&pageIndex=1&pdfId=379578&pdfSj=&beginNotiDt=&endNotiDt=)
+
